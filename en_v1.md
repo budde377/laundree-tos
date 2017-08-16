@@ -26,7 +26,7 @@ Dannebrogsgade 8, 4. th.<br />
 
 ## Introduction
 
-Laundree is an easy and free booking system for the laundry facilities in your property. By using the Laundree system, you can order and cancel your laundry bookings wherever you are (with internet connection). Laundree is an Open Source-project and the source code is available at www.github.com/laundree/laundree, but we reserve the right to copyright according to section 7.
+Laundree is an easy and free booking system for the laundry facilities in your property. By using the Laundree system, you can order and cancel your laundry bookings wherever you are (with internet connection). Laundree is an Open Source-project and the source code is available at [https://github.com/laundree/laundree](https://github.com/laundree/laundree), but we reserve the right to copyright according to section 7.
 
 Laundree is without guarantee of Uptime (page availability) of continuity of service. As an Open Source-project, we allow anyone to view and suggest changes to the source code. We take no responsibility for any errors, intended or not, introduced by this practice.
 
@@ -66,7 +66,7 @@ These Terms and Conditions apply to your use of Laundree and the services provid
 
 5.3 We reserve the right to change the price of our service or components when we consider it necessary. Price changes in the service takes effect no earlier than 60 days after you receive a notice by email.
 
-5.4 You can unsubscribe your membership at any time. To unsubscribe the membership you must delete the Laundree-user and associated users at www.laundree.dk. There is no access to Laundree after deleting the Laundree-user and your entered data, including laundry bookings and registered machines, is lost.
+5.4 You can unsubscribe your membership at any time. To unsubscribe the membership you must delete the Laundree-user and associated users at [https://laundree.io](https://laundree.io). There is no access to Laundree after deleting the Laundree-user and your entered data, including laundry bookings and registered machines, is lost.
 
 ## 6 The Laundree Service
 
@@ -78,7 +78,7 @@ These Terms and Conditions apply to your use of Laundree and the services provid
 
 6.4 We are not responsible for washing machines, tumble driers, their use or crashes. The Laundree service only helps with laundry bookings and cancellation. If someone in the property “steals” your laundry booking, the Laundree service is of course without responsibility and recommends that it is sorted out between residents and board/management in the property.
 
-6.5 If the device where you have installed Laundree is lost or stolen, delete the Laundree-user and laundry, which can be done under "Laundry Users" at www.laundree.dk. If you log out or disable the device and have forgotten your password at the same time, you can get access to Laundree again by pressing "Forgot your password?". Follow the instructions and receive a new password via email.
+6.5 If the device where you have installed Laundree is lost or stolen, delete the Laundree-user and laundry, which can be done under "Laundry Users" at [https://laundree.io](https://laundree.io). If you log out or disable the device and have forgotten your password at the same time, you can get access to Laundree again by pressing "Forgot your password?". Follow the instructions and receive a new password via email.
 
 6.6 We may stop or restrict your use of our service without compensation or notice if we find or reasonably believe that you (i) violate any of these Terms and Conditions or you (ii) are involved in illegal or inappropriate use of the service.
 
@@ -98,4 +98,4 @@ These Terms and Conditions apply to your use of Laundree and the services provid
 
 ## 10 Contact
 
-You can learn more about the Laundree service, creating an account and our mission for Laundree on the website www.laundree.dk. Contact us by using the contact link in the upper left of the menu of the website and fill out the contact form. We respond within 5 business days.
+You can learn more about the Laundree service, creating an account and our mission for Laundree on the website [https://laundree.io](https://laundree.io). Contact us by using the contact link in the upper left of the menu of the website and fill out the contact form. We respond within 5 business days.

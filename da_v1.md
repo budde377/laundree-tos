@@ -25,7 +25,7 @@ Dannebrogsgade 8, 4. th.<br />
 
 ## Indledning
 
-Laundree er et nemt og gratis bookingsystem til fællesvaskeriet i din ejendom. Vasketider kan med Laundree bestilles og afbestilles uanset, hvor du er (med internetforbindelse). Laundree er et Open Source-projekt, hvis kildekode er tilgængelig på www.github.com/laundree/laundree, men Vi forbeholder Os retten omkring ophavsret ifølge pkt. 7.
+Laundree er et nemt og gratis bookingsystem til fællesvaskeriet i din ejendom. Vasketider kan med Laundree bestilles og afbestilles uanset, hvor du er (med internetforbindelse). Laundree er et Open Source-projekt, hvis kildekode er tilgængelig på [https://github.com/laundree/laundree](https://github.com/laundree/laundree), men Vi forbeholder Os retten omkring ophavsret ifølge pkt. 7.
 
 Laundree er uden garanti for Uptime (sidens tilgængelig) eller kontinuitet i tjenesten. Som Open Source-projekt tillader Vi alle til at se og foreslå ændringer af kildekoden. Vi tager absolut intet ansvar for eventuelle fejl, bestemt eller ej, der er indført af denne praksis.
 
@@ -64,7 +64,7 @@ Disse Vilkår og Betingelser gælder for Jeres brug af Laundree og de tjenester,
 5.2 Jeres Medlemskab vil fortsætte, medmindre I afmelder systemet som ifølge pkt. 5.4.
 5.3 Vi forbeholder Os retten til, helt efter eget skøn, at ændre prisen for Vores tjeneste eller komponenter deraf, når Vi vurderer, det er nødvendigt. Prisændringer i tjenesten træder i kraft tidligst 60 dage efter, at I har fået besked via e-mail.
 
-5.4 I kan afmelde Jeres Medlemskab når som helst. For at afmelde Medlemskabet skal I slette vaskeriet og dertilhørende bruger på www.laundree.dk. Derefter vil der ikke være adgang til Laundree og Jeres indtastede data, herunder bestilte vasketider og registrerede maskiner, går tabt.
+5.4 I kan afmelde Jeres Medlemskab når som helst. For at afmelde Medlemskabet skal I slette vaskeriet og dertilhørende bruger på [https://laundree.io](https://laundree.io). Derefter vil der ikke være adgang til Laundree og Jeres indtastede data, herunder bestilte vasketider og registrerede maskiner, går tabt.
 
 ## 6 Laundree-tjenesten
 
@@ -76,7 +76,7 @@ Disse Vilkår og Betingelser gælder for Jeres brug af Laundree og de tjenester,
 
 6.4 Vi er ikke ansvarlige for vaskemaskiner, tørretumbler, brugen af dem eller nedbrud af disse. Laundree-tjenesten hjælper kun med bestilling og afbestilling af vasketider. Snupper andre i opgangen ens vasketid, er Laundree-tjenesten naturligvis uden ansvar og anbefaler det udredes mellem beboer og bestyrelse.
 
-6.5 Hvis den enhed, hvor Laundree er installeret, sælges, bliver væk eller stjålet, skal I slette brugeren fra vaskeriet, hvilket klares under ”Vaskeri brugere” på www.laundree.dk. Hvis I logger ud eller deaktiverer enheden, og samtidig har glemt Jeres adgangskode, kan I efterfølgende få adgang til Laundree ved at trykke på “Har du glemt adgangskode?”. Følg instruktionerne og få tilsendt en ny adgangskode via e-mail.
+6.5 Hvis den enhed, hvor Laundree er installeret, sælges, bliver væk eller stjålet, skal I slette brugeren fra vaskeriet, hvilket klares under ”Vaskeri brugere” på [https://laundree.io](https://laundree.io). Hvis I logger ud eller deaktiverer enheden, og samtidig har glemt Jeres adgangskode, kan I efterfølgende få adgang til Laundree ved at trykke på “Har du glemt adgangskode?”. Følg instruktionerne og få tilsendt en ny adgangskode via e-mail.
 6.6 Vi kan stoppe eller begrænse Jeres brug af Vores tjeneste, uden kompensation eller varsel, hvis Vi konstaterer, eller med rimelighed mener, at I (i) overtræder nogle af disse Vilkår og Betingelser eller I (ii) er involveret i ulovlig eller upassende brug af tjenesten.
 
 ## 7 Intellektuel ejendom
@@ -95,5 +95,5 @@ Disse Vilkår og Betingelser gælder for Jeres brug af Laundree og de tjenester,
 
 ## 10 Kontakt
 
-På Laundrees hjemmeside kan I bl.a. få mere information om Laundree-tjenesten, oprettelse af konto samt Vores mission for Laundree. På www.laundree.dk kan I kontakte Os ved at benytte kontaktlinket øverst til venstre i menuen og udfylde kontaktformularen. Vi svarer inden for 5 arbejdsdage.
+På Laundrees hjemmeside kan I bl.a. få mere information om Laundree-tjenesten, oprettelse af konto samt Vores mission for Laundree. På [https://laundree.io](https://laundree.io) kan I kontakte Os ved at benytte kontaktlinket øverst til venstre i menuen og udfylde kontaktformularen. Vi svarer inden for 5 arbejdsdage.
 
