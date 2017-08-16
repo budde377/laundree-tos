@@ -85,7 +85,7 @@ Disse Vilkår og Betingelser gælder for Jeres brug af Laundree og de tjenester,
 
 ## 8 Gældende lov
 
-8.1 Disse Vilkår og Betingelser er underlagt Dansk Ret. Enhver konflikt skal søges læst ved Retten I Aarhus, Danmark.
+8.1 Disse Vilkår og Betingelser er underlagt Dansk Ret. Enhver konflikt skal søges løst ved Retten I Aarhus, Danmark.
 
 ## 9 Brug af registrerede oplysninger  
 
