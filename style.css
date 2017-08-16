@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11pt;
+  font-weight: 300;
+  color: #03414C;
+  background: #66D3D3;
+  position: relative;
+}
+
+h1, h2 {
+  color: #ffffff;
+  font-weight: 300;
+  font-size: 1.5em;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h1 {
+  padding: 1em 0 0.5em;
+}
+h2 {
+  font-size: 1.2em;
+  padding: 1.5em 0 0.5em;
+}
+p {
+  font-weight: bolder;
+  padding: 0.5em 0;
+}
+header {
+  padding: 1em;
+  margin: auto;
+  display: block;
+  max-width: 40em;
+}
+
+#Content {
+  padding: 1em;
+  margin: auto;
+  max-width: 40em;
+  padding-bottom: 5em;
+}
+
+#MediaLogo {
+  width: 15em;
+  margin: 5em auto 4em;
+  display: block;
+}
+
+#VersionHeader {
+  background-color: #E55564;
+  padding: 1em;
+  min-height: 2em;
+  color: #fff;
+}
+
+#VersionHeader .container {
+  max-width: 40em;
+  margin: auto;
+}
+
+#VersionHeader .container div {
+  line-height: 2em;
+}
+
+#VersionHeader .version {
+  float: left;
+}
+
+#VersionHeader .effective {
+  float: right;
+}
+
+@media screen and (max-width: 25em) {
+  #VersionHeader {
+  }
+
+  #VersionHeader .version, #VersionHeader .effective {
+    float: none;
+  }
+}
