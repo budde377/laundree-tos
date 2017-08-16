@@ -5,6 +5,7 @@ layout: default
 version_text: Version 1.0
 effective_text: Effective from 16. august 2017
 ---
+
 # Terms and Conditions
 
 **Issued by:**
