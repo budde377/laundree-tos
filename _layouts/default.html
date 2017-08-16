@@ -1,29 +1,29 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
-    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#608da8">
+    <link rel="apple-touch-icon" sizes="57x57" href="{{'/apple-touch-icon-57x57.png'|absolute_url}}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{'/apple-touch-icon-60x60.png'|absolute_url}}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{'/apple-touch-icon-72x72.png'|absolute_url}}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{'/apple-touch-icon-76x76.png'|absolute_url}}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{'/apple-touch-icon-114x114.png'|absolute_url}}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{'/apple-touch-icon-120x120.png'|absolute_url}}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{'/apple-touch-icon-144x144.png'|absolute_url}}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{'/apple-touch-icon-152x152.png'|absolute_url}}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{'/apple-touch-icon-180x180.png'|absolute_url}}">
+    <link rel="icon" type="image/png" href="{{'/favicon-32x32.png'|absolute_url}}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{'/favicon-194x194.png'|absolute_url}}" sizes="194x194">
+    <link rel="icon" type="image/png" href="{{'/favicon-96x96.png'|absolute_url}}" sizes="96x96">
+    <link rel="icon" type="image/png" href="{{'/android-chrome-192x192.png'|absolute_url}}" sizes="192x192">
+    <link rel="icon" type="image/png" href="{{'/favicon-16x16.png'|absolute_url}}" sizes="16x16">
+    <link rel="manifest" href="{{'/manifest.json'|absolute_url}}">
+    <link rel="mask-icon" href="{{'/safari-pinned-tab.svg'|absolute_url}}" color="#608da8">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-TileImage" content="/mstile-144x144.png">
     <meta name="theme-color" content="#e55564">
     <meta name="mobile-web-app-capable" content="yes">
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link type="text/css" href="/style.css" rel="stylesheet"/>
+    <link type="text/css" href="{{'/style.css'|absolute_url}}" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,700,400,400italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300" rel="stylesheet" type="text/css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,8 +31,8 @@
   <body>
     <div id="VersionHeader">
       <div class="container">
-        <div class="version">Version <span>{{page.version}}</span></div>
-        <div class="effective">{{page.effective_text}} <span>{{page.effective_from}}</span></div>
+        <div class="version">{{page.version_text}}</div>
+        <div class="effective">{{page.effective_text}}</div>
       </div>
     </div>
     <header>
@@ -108,7 +108,6 @@
 	c-0.4,3.6-2.8,10.7-11.4,10.7c-5.4,0-10.4-4.3-10.4-11.7c0-7.5,4.5-13.1,9-13.1c3.3,0,5.3,2.4,5.3,6C257.8,41,254.8,46.2,249.1,47.9
 	z M248.4,44.7c3-1.4,4.8-4.4,4.8-8c0-1.3-0.5-2.1-1.2-2.1c-2.9,0-3.8,6.5-3.7,9C248.3,44,248.4,44.3,248.4,44.7z"></path>
     </svg>
-      <h1>{{ page.title }}</h1>
     </header>
     <div id="Content">
       {{ content }}

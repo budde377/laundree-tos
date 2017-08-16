@@ -30,12 +30,19 @@ p {
   padding: 0.5em 0;
 }
 header {
-  padding: 1em;
+  padding: 5em 0 2em;
   margin: auto;
   display: block;
   max-width: 40em;
 }
 
+ul {
+  padding: 1em 0 1em 2em;
+}
+
+ul li {
+  line-height: 2em;
+}
 #Content {
   padding: 1em;
   margin: auto;
@@ -45,7 +52,7 @@ header {
 
 #MediaLogo {
   width: 15em;
-  margin: 5em auto 4em;
+  margin: 0 auto;
   display: block;
 }
 

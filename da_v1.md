@@ -1,12 +1,12 @@
 ---
-title: Vilkår og betingelser
 permalink: /da/v1
 redirect_from: /da/current
 layout: default
-version: 1.0
-effective_from: 16. august 2017
-effective_text: Ikrafttrædelsesdato
+version_text: Version 1.0
+effective_text: Ikrafttrædelsesdato 16. august 2017
 ---
+
+# Vilkår og betingelser
 
 **Udgivet af:**
 

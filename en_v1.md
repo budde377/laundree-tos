@@ -1,12 +1,11 @@
 ---
-title: Terms and Conditions
 permalink: /en/v1
 redirect_from: /en/current
 layout: default
-version: 1.0
-effective_from: 16. august 2017
-effective_text: Effective from
+version_text: Version 1.0
+effective_text: Effective from 16. august 2017
 ---
+# Terms and Conditions
 
 **Issued by:**
 
