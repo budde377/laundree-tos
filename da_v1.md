@@ -77,6 +77,7 @@ Disse Vilkår og Betingelser gælder for Jeres brug af Laundree og de tjenester,
 6.4 Vi er ikke ansvarlige for vaskemaskiner, tørretumbler, brugen af dem eller nedbrud af disse. Laundree-tjenesten hjælper kun med bestilling og afbestilling af vasketider. Snupper andre i opgangen ens vasketid, er Laundree-tjenesten naturligvis uden ansvar og anbefaler det udredes mellem beboer og bestyrelse.
 
 6.5 Hvis den enhed, hvor Laundree er installeret, sælges, bliver væk eller stjålet, skal I slette brugeren fra vaskeriet, hvilket klares under ”Vaskeri brugere” på [https://laundree.io](https://laundree.io). Hvis I logger ud eller deaktiverer enheden, og samtidig har glemt Jeres adgangskode, kan I efterfølgende få adgang til Laundree ved at trykke på “Har du glemt adgangskode?”. Følg instruktionerne og få tilsendt en ny adgangskode via e-mail.
+
 6.6 Vi kan stoppe eller begrænse Jeres brug af Vores tjeneste, uden kompensation eller varsel, hvis Vi konstaterer, eller med rimelighed mener, at I (i) overtræder nogle af disse Vilkår og Betingelser eller I (ii) er involveret i ulovlig eller upassende brug af tjenesten.
 
 ## 7 Intellektuel ejendom
